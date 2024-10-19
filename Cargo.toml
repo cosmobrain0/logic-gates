@@ -1,10 +1,9 @@
 [package]
-name = "eframe_template"
+name = "logic_gate_playground"
 version = "0.1.0"
-authors = ["Emil Ernerfeldt <emil.ernerfeldt@gmail.com>"]
+authors = ["Cosmo Brain <cosmobrain@outlook.co.uk>"]
 edition = "2021"
 include = ["LICENSE-APACHE", "LICENSE-MIT", "**/*.rs", "Cargo.toml"]
-rust-version = "1.76"
 
 [package.metadata.docs.rs]
 all-features = true
